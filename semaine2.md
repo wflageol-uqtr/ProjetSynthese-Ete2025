@@ -1,4 +1,4 @@
-# Projet de synthèse - Été 2025 - Principes SOLID
+# INF1035 - Semaine 2
 
 ## Bibliographie de ce cours
 
@@ -822,3 +822,14 @@ Le problème ici, c'est que l'utilisateur de notre classe a à se soucier de bie
     }
 
 Et si on ne retournait que des valeurs concrètes? On se retrouve avec le même problème initial : accéder aux valuers d'un joker nous retourne ``null``!
+
+
+## Mot de la fin
+
+Nous avons vu cette semaine différents concepts au niveau de la création de classes et de la gestion de l'état des objets. Le génie logiciel n'a souvent pas de réponse claire à comment **bien** concevoir tous les systèmes : c'est avec le contexte de votre travail et l'expérience que vous allez arriver à prendre de bonnes décisions conceptuelles.
+
+Par contre, pour pouvoir en arriver à prendre de bonnes décisions, il faut bien connaître les possibilités qui s'offrent à nous et faire des choix éclairés. 
+
+Il sera important dans vos travaux de bien appliquer les concepts explorés pour créer des objets qui sont adaptés au contexte de votre code!
+
+N'oubliez pas de consulter le travail 2 disponible sur le [Github du cours](https://github.com/wflageol-uqtr/inf1035/blob/master/travail2.md). Vous pouvez dès maintenant commencer à modéliser votre domaine objet et à créer vos classes de base pour le travail.
