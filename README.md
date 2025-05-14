@@ -131,9 +131,9 @@ Pour un guide d'utilisation de Markdown sur Git, vous pouvez consulter la page s
 
 Sinon, ce document est lui-même écrit en Markdown, alors vous pouvez le télécharger et le consulter comme guide.
 
-## Présentation
+## Présentations
 
-À la fin de l'été (date à déterminer), vous aurez à me présenter votre application fonctionnelle. Il ne s'agit que de me montrer le bon fonctionnement de chacune des fonctionnalités présentées ci-haut. Vous aurez un maximum de 15 minutes pour présenter votre application.
+Vous aurez deux présentations à faire au cours de cet été. La première aura lieu le 2 juillet où vous aurez l'occasion de me présenter ce que vous avez fait jusqu'à maintenant. Je pourrai vous donner des commentaires et répondre à vos questions à ce moment. Je n'évaluerai pas votre travail à ce moment, mais les commentaires que je donnerai feront partie de l'évaluation finale. La deuxième et dernière présentation aura lieu le 13 août, où vous démontrerez le fonctionnement complet de votre application. Il s'agira me montrer le bon fonctionnement de chacune des fonctionnalités présentées ci-haut. Chaque présentation sera d'une durée maximale de 30 minutes.
 
 Je vous recommende d'amener un ordinateur portable pour présenter, mais vous pourrez présenter sur les ordinateurs du laboratoire sinon.
 
