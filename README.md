@@ -7,6 +7,10 @@ Le projet que vous aurez à réaliser durant le cours de cette session est un ou
 
 Vous n'avez pas besoin d'être capable de résoudre des Sudoku vous même pour compléter ce travail. Cependant, la page Wikipédia sur le sujet peut vous être utile pour comprendre de quoi il s'agit: [https://fr.wikipedia.org/wiki/Sudoku](https://fr.wikipedia.org/wiki/Sudoku).
 
+## Contact
+
+Vous pouvez m'écrire par courriel pour me poser des questions ou prendre rendez-vous pour une rencontre (en ligne ou à mon bureau). Je vous invite également à joindre le serveur Discord suivant où nous pourrons discuter en groupe du projet: https://discord.gg/zAQyhSepRb
+
 ## Spécifications générales
 
 Voici les grandes lignes de ce que votre application devra contenir :
@@ -19,14 +23,6 @@ Voici les grandes lignes de ce que votre application devra contenir :
 * Permettre d'effectuer des changements sur plusieurs cases à la fois.
 * Votre code devra faire usage de trois (3) patrons de conceptions GoF différents, tels que vu dans le cours de Génie Logiciel.
 * Une batterie de test unitaires automatisés qui vérifie chaque fonctionnalité.
-
-De plus, vous devrez fournir un rapport contenant les informations suivantes :
-
-* Cinq exemples dans votre code qui démontrent l'application de chacun des 5 principes SOLID.
-* Trois exemples dans votre code qui démontrent l'application de chacun un principe GRASP différent.
-* Chaque exemple doit être accompagné d'explications et justifications.
-
-Finalement, vous devrez me présenter votre programme fonctionnel à la fin de la session. Les présentations seront faites de façon indivuelle au laboratoire. Vous aurez chacun une plage de 15 minutes pour me présenter votre programme.
 
 ## Spécifications détaillées
 
@@ -191,7 +187,7 @@ Le groupe de contrôle développera leur projet en utilisant la méthodologie or
 Le groupe de traitement développera leur projet en n'utilisant que des objets immuables. En plus des concepts orientés-objet vus dans les notes de cours qui doivent être inclus dans votre projet, votre code devra respecter les règles suivantes :
 
 * Tous les attributs de vos objets sont read-only. Si vous devez modifier un objet, créez-en un nouveau à la place.
-* Vos méthodes "setters" doivent retourner un nouvel objet plutôt que modifier l'objet existant (voir TP1).
+* Vos méthodes "setters" doivent retourner un nouvel objet plutôt que modifier l'objet existant.
 * Votre code peut se fier au fait que l'état d'un objet ne changera jamais.
 * Respectez tout de même les règles d'encapsulation : vos attributs doivent être privés. Utiliser des getters (ou propriétés read-only si supportées par le langage) pour accéder aux attributs de vos objets.
 * Les classes et objets muables provenant d'une librairie (e.g. librairie d'affichage graphique) peuvent être utilisés et modifiés normalement, mais devrait autant que possible être séparé du reste du code (i.e. ne placez pas un objet muable dans un attribut d'un objet immuable).
